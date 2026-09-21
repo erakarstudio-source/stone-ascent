@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Stone Ascent — Privacy Policy</title>
+<style>
+  body { font-family: Georgia, 'Times New Roman', serif; max-width: 760px; margin: 0 auto; padding: 32px 20px 80px; line-height: 1.6; color: #2a2a2a; background: #fdfaf3; }
+  h1 { font-size: 28px; margin-bottom: 4px; }
+  .updated { color: #666; font-size: 14px; margin-bottom: 32px; }
+  h2 { font-size: 20px; margin-top: 36px; border-bottom: 1px solid #ddd; padding-bottom: 6px; }
+  a { color: #8a5a1c; }
+  ul { padding-left: 22px; }
+  li { margin-bottom: 8px; }
+  table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+  th, td { text-align: left; padding: 8px 10px; border: 1px solid #ddd; font-size: 15px; vertical-align: top; }
+  th { background: #f1e7d2; }
+  footer { margin-top: 48px; font-size: 13px; color: #777; border-top: 1px solid #ddd; padding-top: 16px; }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy for Stone Ascent</h1>
+<p class="updated">Last updated: September 21, 2026</p>
+
+<p>This Privacy Policy explains how Stone Ascent ("the App", "we", "us") handles information when you download and play the App. Stone Ascent is developed by erakarstudio ("the Developer"). By using the App, you agree to the collection and use of information in accordance with this policy.</p>
+
+<h2>1. Information We Collect</h2>
+<p>Stone Ascent does not require you to create an account, and does not ask you to submit your name, email address, or any other personal contact information to play the game.</p>
+
+<h3>a) Data stored only on your device</h3>
+<p>Your game progress (score history, Sacred Crystal and Heart balances, unlocked skins and biomes, mission/XP progress) and settings (language, sound, music, haptics, colorblind mode) are stored locally on your device only. This data is never transmitted to, or stored on, any server operated by the Developer. If you uninstall the App or clear its storage, this data is permanently deleted.</p>
+
+<h3>b) Data collected by third-party services</h3>
+<p>The App uses the third-party services listed below. These services may automatically collect certain information (such as your advertising identifier or device information) as described in their own privacy policies.</p>
+
+<h2>2. Third-Party Services</h2>
+<table>
+  <tr><th>Service</th><th>Purpose</th><th>Data involved</th></tr>
+  <tr>
+    <td>Google AdMob</td>
+    <td>Shows in-app advertising (rewarded video and interstitial ads)</td>
+    <td>Advertising ID, device/app information, and usage data used for ad delivery and, where applicable, ad personalization. See <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google's Privacy Policy</a>.</td>
+  </tr>
+  <tr>
+    <td>Google Play Billing (via RevenueCat)</td>
+    <td>Processes in-app purchases (removing ads, extra Hearts, extra Sacred Crystal)</td>
+    <td>Purchase data associated with an anonymous app-generated user identifier, handled by RevenueCat on the Developer's behalf. See <a href="https://www.revenuecat.com/privacy/" target="_blank" rel="noopener">RevenueCat's Privacy Policy</a>.</td>
+  </tr>
+</table>
+
+<h2>3. How Information Is Used</h2>
+<ul>
+  <li>To display and measure advertising, and (where you have not opted out) to personalize ads, via Google AdMob.</li>
+  <li>To process and validate in-app purchases and keep your purchased entitlements (such as "Remove Ads") in effect.</li>
+  <li>To remember your own game progress and settings, stored locally on your device.</li>
+</ul>
+<p>We do not sell your information, and we do not share any information with third parties except the service providers named above.</p>
+
+<h2>4. Children's Privacy</h2>
+<p>Stone Ascent is not directed at children under the age of 13, and we do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal information, please contact us so we can address it.</p>
+
+<h2>5. Your Choices and Rights</h2>
+<ul>
+  <li><strong>Local data:</strong> you can erase all locally stored game data at any time by clearing the App's storage or uninstalling the App.</li>
+  <li><strong>Ad personalization:</strong> you can reset or limit your advertising identifier and manage ad personalization in your device settings (Settings → Google → Ads).</li>
+  <li><strong>Data requests:</strong> to ask what information a third-party service listed above holds about you, or to request its deletion, contact that service directly or contact us and we will help direct your request.</li>
+</ul>
+
+<h2>6. Data Security</h2>
+<p>Gameplay data is stored locally on your device and protected by your device's own security. Data handled by our third-party providers (Google AdMob, Google Play Billing, RevenueCat) is protected under their respective security practices.</p>
+
+<h2>7. Changes to This Policy</h2>
+<p>We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated "Last updated" date.</p>
+
+<h2>8. Contact Us</h2>
+<p>If you have any questions about this Privacy Policy, contact us at:</p>
+<p><strong>eraykaraer0234@gmail.com</strong></p>
+
+<footer>Stone Ascent — developed by erakarstudio.</footer>
+
+</body>
+</html>
